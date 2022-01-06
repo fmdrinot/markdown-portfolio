@@ -1,3 +1,3 @@
-[ ] Talk to Siti
-[ ] Leave the club
-[ ] Merge the merge
+- [ ] Talk to Siti
+- [ ] Leave the club
+- [ ] Merge the merge
