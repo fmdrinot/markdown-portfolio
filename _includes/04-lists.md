@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+[ ] Talk to Siti
+[ ] Leave the club
+[ ] Merge the merge
